@@ -1,0 +1,4 @@
+week7作业
+必做第一题在springboot1下的DAOTest中，主要测试了三种方式插入100万条数据并统计时间
+必做第二题在springboot1下的routedatasource中，通过继承AbstractRoutingDataSource实现多数据源配置
+必做第三题在sharding-raw-jdbc-example中，学习了官方提供的demo样例
